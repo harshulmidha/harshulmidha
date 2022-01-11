@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/harshulmidha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshulmidha&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshulmidha" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=harshulmidha&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshulmidha" />
 </a>
 
 ![Profile views](https://gpvc.arturio.dev/harshulmidha)
