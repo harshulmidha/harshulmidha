@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hello! I'm Harshul 👋
 
+## About Me:
+- 🎓&nbsp;Studying Electrical Engineering at Indian Institute of Technology, Kanpur.
 <!--
 **harshulmidha/harshulmidha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
